@@ -32,6 +32,39 @@ Where you can **add**, **update**, **view** and **delete** the contacts that you
    ```
    
   <br>
+  
+  <img width=" 150px" align="right" src="https://raw.githubusercontent.com/golang/website/2aac4c0722c9bcb895571a7c5b68e57b45cc732a/_content/images/gophers/happy.svg">
+
+  
+  ## Example output
+ ```
+a) Create
+B) List
+C) Update
+D) Delete
+enter an option:
+c
+ID: 2
+New Username: Chris
+New Email: ch@gmail.com
+New Age: 31
+User updated successfully
+```
+
+  
+```
+a) Create
+B) List
+C) Update
+D) Delete
+enter an option:
+b
+User list :
+1 - Tina - tina@gmail.com - 20
+2 - Chris - ch@gmail.com - 31
+3 - Vivy - vio@gmail.com - 34
+```
+  
 
  <img src= "https://64.media.tumblr.com/ce5a174b5f8b587f7f5ea4dae1f7c607/ea7d2207a691971c-f9/s500x750/e296dd4ca643bbf319e0424325ed0b98ea7f7c36.gifv">
 
