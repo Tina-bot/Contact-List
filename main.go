@@ -43,7 +43,7 @@ func listUsers() {
 	clearConsole()
 	fmt.Println("User list :")
 	for id, user := range users {
-		fmt.Println(id, '-', user.username, '-', user.email, '-', user.age)
+		fmt.Println(id, "Username: ", user.username, "Email: ", user.email, "Age: ", user.age)
 	}
 	fmt.Println('\n')
 }
