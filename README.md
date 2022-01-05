@@ -60,12 +60,11 @@ D) Delete
 enter an option:
 b
 User list :
-1 - Tina - tina@gmail.com - 20
-2 - Chris - ch@gmail.com - 31
-3 - Vivy - vio@gmail.com - 34
+1 Username: Tina Email:  tina@gmail.com Age: 20
+2 Username: Chris Email:  ch@gmail.com Age: 31
+3 Username: Vivy Email:  vio@gmail.com Age: 34
 ```
 
-<br>
-
+</br>
  <img src= "https://64.media.tumblr.com/ce5a174b5f8b587f7f5ea4dae1f7c607/ea7d2207a691971c-f9/s500x750/e296dd4ca643bbf319e0424325ed0b98ea7f7c36.gifv">
 
