@@ -41,9 +41,9 @@ func createUser() {
 
 func listUsers() {
 	clearConsole()
-	fmt.Println("User listed :")
+	fmt.Println("User list :")
 	for id, user := range users {
-		fmt.Println(id, "-", user.username, '-', user.email, '-', user.age)
+		fmt.Println(id, '-', user.username, '-', user.email, '-', user.age)
 	}
 	fmt.Println('\n')
 }
